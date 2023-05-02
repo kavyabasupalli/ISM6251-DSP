@@ -2,15 +2,14 @@ This is my personal repository for ISM6251- Data Science Programming.
 
 This repository has all my assignments organized in a weekly folder structure.
   
-  # ISM6251-DSP
 
-DETAILED DESCRIPTION :
+#### DETAILED DESCRIPTION :
 
 This group of Data Science Programming concepts focused on trying varied machine modeling techniques and using from Logistic Regression, Decision Trees, Neural Networks, Text Mining, DNN, RNN , Neural Networks, Ensemble Techniques to SVM. 
 
 
 
-1.WEO1-DATA PREP ASSIGNMENT :
+####1.WEO1-DATA PREP ASSIGNMENT :
 
 Here we identified five categorical variables. We encoded two of these variables (neighborhood_cleansed and property_type) using dummy variable encoding and the remaining three using label encoding (room_type, bed_type, and cancellation_policy). For this exercise, we solved a situation where our manager disagrees with your choice of encoding and wants the variables you encoded using dummy variable encoding to use one-hot-encoding instead. He also wants one of the three variables (the cancellation_policy variable) you label encoded to be one-hot-encoded.
 
