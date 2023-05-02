@@ -9,7 +9,7 @@ This group of Data Science Programming concepts focused on trying varied machine
 
 
 
-#### 1.WEO1-DATA PREP ASSIGNMENT :
+#### 1.WEO1-DATA Prep :
 
 Here we identified five categorical variables. We encoded two of these variables (neighborhood_cleansed and property_type) using dummy variable encoding and the remaining three using label encoding (room_type, bed_type, and cancellation_policy). For this exercise, we solved a situation where our manager disagrees with your choice of encoding and wants the variables you encoded using dummy variable encoding to use one-hot-encoding instead. He also wants one of the three variables (the cancellation_policy variable) you label encoded to be one-hot-encoded.
 
@@ -49,8 +49,10 @@ Found a unique dataset and choosed recall score as scoring metric based on the b
 #### 9.ICA06 Text Mining:
 Made use of lemmatization techniques to group those words together which has same root. Also explored the impacts of applying SVD to the data.Analyzed how changing the n_components parameter impacts the modeling results. Used the values 100, 300, and 500 and discussed how each of these values impacted the performance of the models. 
 
+
 #### 10. WE07-Neural Networks
 Added a neural network model analysis from assignment01 and discusses how well this performance versus the other models tried.
+
 
 #### 11.ICP08 DNN
 Updated the handwriting example from class 08 (the one that uses Keras) to use the GlorotNormal initializer for model weights. 
