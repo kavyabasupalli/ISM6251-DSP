@@ -47,11 +47,22 @@ Universal bank has recently tried a marketing campaign to sell their new CD acco
 Found a unique dataset and choosed recall score as scoring metric based on the business problem and fitted a logistic regression, an SVM, and a decision tree model for modeling and used random and grid searches to test a range of parameter values for each model. Logistic regression was best for our data.
 
 #### 9.ICA06 Text Mining:
-Made use of lemmatization techniques to group those words 
+Made use of lemmatization techniques to group those words together which has same root. Also explored the impacts of applying SVD to the data.Analyzed how changing the n_components parameter impacts the modeling results. Used the values 100, 300, and 500 and discussed how each of these values impacted the performance of the models. 
 
+#### 10. WE07-Neural Networks
+Added a neural network model analysis from assignment01 and discusses how well this performance versus the other models tried.
 
+#### 11.ICP08 DNN
+Updated the handwriting example from class 08 (the one that uses Keras) to use the GlorotNormal initializer for model weights. 
+Applied the SKLearn MLPClassifer/Regressor and Keras techniques, Defined and trained an MLP and Keras Sequential model that predicts the output target variable. Experimented with the settings discussed/demonstrated in to identify the best-performing predictive model.Discussed how the MLP and Keras models performed versus your previous predictive models from Assignment01. 
 
+#### 12. WE10-RNN
+Selected Costco daily stock prices using Yahoo Finance. Used the closing prices of the past nine days to predict the 10-day closing stock price and applied RNN, LTSM, Gru, and Conv1D techniques to predict the 10th-day closing price. Discussed the performance of each of the models.
 
+#### 13. WE11-Autoencoder
+Applied autoencoder technique to observe its performance with the first letter of my name and demonstrated your new encoding by showing the autencoder recreate a random set of digits and your new character.
+
+ 
 
 
 
